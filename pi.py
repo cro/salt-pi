@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 '''
 Functions for a Raspberry Pi
+
+    :codeauthor: :email:`Dave Boucha (dave@saltstack.com)`
+    :copyright: © 2013 by SaltStack, Inc.
+    :license: Apache 2.0, see LICENSE for more details.
 '''
 
 # Import python libs
